@@ -15,7 +15,7 @@ Below are the helps for importing file from git to eclipse editor local.
 1. Go for eclipse editor.
 2. Navigate to the File option present in the topleft of your eclipse editor and under that menu click on "Import" button.
 3. In the Import popup select Pject from git and clone the given url and import the project by following the other instruction.
-4. Navigate to the "Selenium_Automation_Jabatalks.java" file and run it as a java project from there.
+4. Navigate to the "Selenium_Automation_Jabatalk.java" file and run it as a java project from there.
 
 Project Maintaince & Datail:
 1. Maintained by Subham Nayak.
