@@ -11,7 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 
 
-public class Selenium_1 {
+public class Selenium_Automation_Jabatalks {
 
 	public static void main(String[] args) throws InterruptedException {
 		
